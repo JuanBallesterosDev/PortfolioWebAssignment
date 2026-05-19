@@ -21,7 +21,7 @@ export default function About() {
             I’m passionate about creating digital experiences that blend clarity, aesthetics, and performance.
           </p>
 
-          <a href="/resume.pdf" download className="resume-link">
+          <a href="/Resume.pdf" download className="resume-link">
             Download my CV
           </a>
         </div>
